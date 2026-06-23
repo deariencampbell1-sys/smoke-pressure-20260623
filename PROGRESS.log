@@ -1,0 +1,42 @@
+23:09:14 elapsed=0s lane-7-grok compute-start pid=2165508 t0_unix=1782256154
+23:09:14 elapsed=0s WORKDIR=/opt/rhobear/projects/smoke-pressure2-20260623/lane-7
+23:09:14 elapsed=0s env: nproc=8 memfree_kb=12881924 loadavg=6.71 4.34 3.16
+23:09:14 elapsed=0s step 1/4 generating 500MB random dataset
+23:09:18 elapsed=4s step 1/4 done bytes=524288000
+23:09:18 elapsed=4s step 2/4 hashing 100x5MB chunks
+23:09:18 elapsed=4s   hashed 0/100
+23:09:18 elapsed=4s   hashed 10/100
+23:09:18 elapsed=4s   hashed 20/100
+23:09:18 elapsed=4s   hashed 30/100
+23:09:19 elapsed=5s   hashed 40/100
+23:09:19 elapsed=5s   hashed 50/100
+23:09:19 elapsed=5s   hashed 60/100
+23:09:19 elapsed=5s   hashed 70/100
+23:09:20 elapsed=6s   hashed 80/100
+23:09:20 elapsed=6s   hashed 90/100
+23:09:20 elapsed=6s step 2/4 done lines=100
+23:09:20 elapsed=6s step 3/4 running python analysis
+23:09:20 elapsed=6s step 3/4 done analysis.json=293B
+23:09:20 elapsed=6s step 4/4 final hash + cleanup
+23:09:21 elapsed=7s step 4/4 done final=6310b831342bc985d366d7b35370f124b47fb0e05624bc7f89f37bda7416fc87
+23:09:21 elapsed=7s step 5/7 extended rounds: 600MB rand + sha256+sha512+md5 + gz-9 + bz-9 + xz-9
+23:09:21 elapsed=7s   ext round 1/2 generate 600MB urandom
+23:09:27 elapsed=13s   ext round 1/2 multi-hash sha256+sha512+md5
+23:09:31 elapsed=17s   ext round 1/2 gzip -9
+23:09:49 elapsed=35s   ext round 1/2 bzip2 -9
+23:11:02 elapsed=108s   ext round 1/2 xz -9
+23:13:08 elapsed=234s   ext round 1/2 done dur=226s raw=629145600 gz9=629247720 bz9=631931543 xz9=629174688
+23:13:08 elapsed=234s   ext round 2/2 generate 600MB urandom
+23:13:13 elapsed=239s   ext round 2/2 multi-hash sha256+sha512+md5
+23:13:19 elapsed=245s   ext round 2/2 gzip -9
+23:13:36 elapsed=262s   ext round 2/2 bzip2 -9
+23:14:41 elapsed=327s   ext round 2/2 xz -9
+23:16:36 elapsed=442s   ext round 2/2 done dur=208s raw=629145600 gz9=629247512 bz9=631928432 xz9=629174688
+23:16:36 elapsed=442s step 5/7 done — 2 extended rounds complete; elapsed=442s
+<stdin>:13: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+23:16:36 elapsed=442s step 6/7 result.json written 641B
+23:16:36 elapsed=442s lane-7-grok compute-DONE wall_clock=442s — ready to ship
+23:16:54 elapsed=460s step 7/7 SHIP: checkout branch + commit + push + open PR
+23:16:54 elapsed=460s   current branch=smoke-pressure2/lane-7
+23:16:54 elapsed=460s   checked out new branch smoke-pressure2/7
+23:16:54 elapsed=460s   verify: hashes.txt=100 analysis.json=293/100 result.json=641/OK

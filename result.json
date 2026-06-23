@@ -1,0 +1,17 @@
+{
+  "lane": "lane-7-grok",
+  "pool": "minimax",
+  "model": "grok-composer-2.5-fast",
+  "chunks_hashed": 100,
+  "analysis_bytes": 293,
+  "final_sha256": "6310b831342bc985d366d7b35370f124b47fb0e05624bc7f89f37bda7416fc87",
+  "completed_at": "2026-06-23T23:16:36Z",
+  "wall_clock_seconds": 442,
+  "core_steps_seconds": 16,
+  "extended_rounds_completed": 2,
+  "extended_raw_bytes_total": 1258291200,
+  "extended_gz9_bytes_total": 1258495232,
+  "extended_bz9_bytes_total": 1263859975,
+  "extended_xz9_bytes_total": 1258349376,
+  "notes": "core 4 steps in 16s; 2 extended rounds of 600MB urandom with sha256+sha512+md5 + gzip-9 + bzip2-9 + xz-9."
+}
