@@ -1,0 +1,9 @@
+{
+  "lane": "lane-1-minimax",
+  "pool": "minimax",
+  "model": "MiniMax-M3",
+  "chunks_hashed": 100,
+  "analysis_bytes": 293,
+  "final_sha256": "510905b79b19dc05198a91c3867089b8353f7df318f13236a69aa13499426e57",
+  "completed_at": "2026-06-23T23:03:45Z"
+}

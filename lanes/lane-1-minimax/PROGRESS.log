@@ -1,0 +1,39 @@
+23:03:38 lane-1-minimax pr-pressure-run-start pid=2075067 T0=1782255818
+23:03:42 step 1/4 done bytes=524288000 elapsed=4s
+23:03:44 step 2/4 done lines=100 elapsed=2s
+23:03:44 step 3/4 done analysis.json=293B elapsed=0s
+23:03:45 step 4/4 done final=510905b79b19dc05198a91c3867089b8353f7df318f13236a69aa13499426e57 elapsed=1s
+23:03:45 result.json written 254B
+23:03:51 pr-spillover-start
+23:03:56 spillover pr r=1 elapsed=5s lines=100 total=5s
+23:04:02 spillover pr r=2 elapsed=6s lines=100 total=11s
+23:04:07 spillover pr r=3 elapsed=5s lines=100 total=16s
+23:04:13 spillover pr r=4 elapsed=6s lines=100 total=22s
+23:04:25 spillover pr r=5 elapsed=12s lines=100 total=34s
+23:04:32 spillover pr r=6 elapsed=7s lines=100 total=41s
+23:04:39 spillover pr r=7 elapsed=7s lines=100 total=48s
+23:04:46 spillover pr r=8 elapsed=7s lines=100 total=55s
+23:04:53 spillover pr r=9 elapsed=7s lines=100 total=62s
+23:05:00 spillover pr r=10 elapsed=7s lines=100 total=69s
+23:05:09 spillover pr r=11 elapsed=9s lines=100 total=78s
+23:05:17 spillover pr r=12 elapsed=8s lines=100 total=86s
+23:05:25 spillover pr r=13 elapsed=8s lines=100 total=94s
+23:05:33 spillover pr r=14 elapsed=8s lines=100 total=102s
+23:05:41 spillover pr r=15 elapsed=8s lines=100 total=110s
+23:05:49 spillover pr r=16 elapsed=8s lines=100 total=118s
+23:05:58 spillover pr r=17 elapsed=9s lines=100 total=127s
+23:06:05 spillover pr r=18 elapsed=7s lines=100 total=134s
+23:06:13 spillover pr r=19 elapsed=8s lines=100 total=142s
+23:06:21 spillover pr r=20 elapsed=8s lines=100 total=150s
+23:06:28 spillover pr r=21 elapsed=7s lines=100 total=157s
+23:06:36 spillover pr r=22 elapsed=8s lines=100 total=165s
+23:06:44 spillover pr r=23 elapsed=8s lines=100 total=173s
+23:06:51 spillover pr r=24 elapsed=7s lines=100 total=180s
+23:06:59 spillover pr r=25 elapsed=8s lines=100 total=188s
+23:07:06 spillover pr r=26 elapsed=7s lines=100 total=195s
+23:07:12 spillover pr r=27 elapsed=6s lines=100 total=201s
+23:07:19 spillover pr r=28 elapsed=7s lines=100 total=208s
+23:07:27 spillover pr r=29 elapsed=8s lines=100 total=216s
+23:07:34 spillover pr r=30 elapsed=7s lines=100 total=223s
+23:07:35 pr-python-heavy-done
+23:07:35 pr-spillover-done count=30 wall=224s
