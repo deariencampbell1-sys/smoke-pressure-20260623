@@ -1,0 +1,28 @@
+23:03:44 lane-2-minimax compute-start pid=2075911 wall_target=480s
+23:03:44 step 1/4 generating 500MB random dataset
+23:03:47 step 1/4 done bytes=524288000 elapsed=3s
+23:03:47 step 2/4 hashing 100x5MB chunks
+23:03:47   hashed 0/100 elapsed=3s
+23:03:47   hashed 10/100 elapsed=3s
+23:03:47   hashed 20/100 elapsed=3s
+23:03:48   hashed 30/100 elapsed=4s
+23:03:48   hashed 40/100 elapsed=4s
+23:03:48   hashed 50/100 elapsed=4s
+23:03:48   hashed 60/100 elapsed=4s
+23:03:48   hashed 70/100 elapsed=4s
+23:03:49   hashed 80/100 elapsed=5s
+23:03:49   hashed 90/100 elapsed=5s
+23:03:49 step 2/4 done lines=100 elapsed=5s
+23:03:49 step 3/4 running python analysis
+23:03:49 step 3/4 done analysis.json=292B elapsed=5s
+23:03:49 step 4/4 final hash + cleanup
+23:03:50 step 4/4 done final=cc2eba597f0ca27d1e2c2e5727586161cf8b3f4cc8a07f5109aaa78132671120 elapsed=6s
+23:03:50 result.json written 254B elapsed=6s
+23:03:50 === extra load rounds begin (push wall > 2min) ===
+23:04:26 extra-round 10/50 elapsed=42s
+23:05:12 extra-round 20/50 elapsed=88s
+23:05:52 extra-round 30/50 elapsed=128s
+23:06:32 extra-round 40/50 elapsed=168s
+23:07:11 extra-round 50/50 elapsed=207s
+23:07:11 === extra load rounds done elapsed=207s ===
+23:07:11 lane-2-minimax compute-DONE total_wall=207s
