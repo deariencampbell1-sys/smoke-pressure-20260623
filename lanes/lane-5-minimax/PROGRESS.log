@@ -1,0 +1,31 @@
+23:04:10 lane-5-minimax compute-start pid=2082764
+23:04:10 step 1/4 generating 500MB random dataset
+23:04:13 step 1/4 done bytes=524288000
+23:04:13 step 2/4 hashing 100x5MB chunks
+23:04:13   hashed 0/100
+23:04:14   hashed 10/100
+23:04:14   hashed 20/100
+23:04:14   hashed 30/100
+23:04:15   hashed 40/100
+23:04:15   hashed 50/100
+23:04:15   hashed 60/100
+23:04:15   hashed 70/100
+23:04:15   hashed 80/100
+23:04:16   hashed 90/100
+23:04:16 step 2/4 done lines=100
+23:04:16 step 2b/4 EXTRA wave: 500MB + 100 hashes
+23:04:20   wave2 hashed 0/100
+23:04:23   wave2 hashed 25/100
+23:04:24   wave2 hashed 50/100
+23:04:24   wave2 hashed 75/100
+23:04:25 step 2b/4 wave2 done lines=100
+23:04:25 step 2c/4 start python burn (180s) in background
+23:04:25 step 2c/4 burn started pid=2087936
+python-burn done iterations=4961 elapsed=180.0s x=1880917280
+23:07:44 step 2c/4 burn complete
+23:07:44 step 3/4 running python analysis
+23:07:44 step 3/4 done analysis.json=293B
+23:07:44 step 4/4 final hash + cleanup
+23:07:46 step 4/4 done final=6e00ba22b54068e35cc5a4d53b84bb5070b8e50212b8d214042ab211d0023608
+23:07:46 result.json written 254B
+23:07:46 lane-5-minimax compute-DONE

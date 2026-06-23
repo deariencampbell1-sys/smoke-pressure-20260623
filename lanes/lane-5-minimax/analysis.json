@@ -1,0 +1,18 @@
+{
+  "total_chunks": 100,
+  "unique_4hex_prefixes": 100,
+  "theoretical_max": 65536,
+  "top_10_prefixes": {
+    "c5a2": 1,
+    "f0bd": 1,
+    "985c": 1,
+    "e6d9": 1,
+    "55b6": 1,
+    "0f09": 1,
+    "5a5c": 1,
+    "08de": 1,
+    "ca84": 1,
+    "bfba": 1
+  },
+  "expected_per_prefix": 0.002
+}
