@@ -1,24 +1,22 @@
-23:04:19 lane-3-minimax compute-start pid=2085655
-23:04:19 lane-3-minimax compute-start pid=2085672
-23:04:19 step 1/4 generating 500MB random dataset
-23:04:24 step 1/4 done bytes=524288000
-23:04:24 step 2/4 hashing 100x5MB chunks
-23:04:24   hashed 0/100
-23:04:24   hashed 10/100
-23:04:24   hashed 20/100
-23:04:24   hashed 30/100
-23:04:24   hashed 40/100
-23:04:25   hashed 50/100
-23:04:25   hashed 60/100
-23:04:25   hashed 70/100
-23:04:25   hashed 80/100
-23:04:26   hashed 90/100
-23:04:26 step 2/4 done lines=100
-23:04:26 step 3/4 running python analysis
-23:04:26 step 3/4 done analysis.json=293B
-23:04:26 step 3.5/4 sustained SHA-256 burn-in target=300s, 8 threads
-23:09:26 step 3.5/4 done burnin.json=978B
-23:09:26 step 4/4 final hash + cleanup
-23:09:35 step 4/4 done final=5fb8531b2732657241ea44b0d1474b53a617b071f6ed61b37cd637085603d877
-23:09:35 result.json written 254B
-23:09:35 lane-3-minimax compute-DONE
+23:08:33 lane-6-minimax compute-start pid=2157200 dispatch=4 PR-mode
+23:08:33 step 1/4 generating 500MB random dataset
+23:08:38 step 1/4 done bytes=524288000
+23:08:41 step 2/4 hashing 100x5MB chunks
+23:08:41   hashed 0/100
+23:08:42   hashed 10/100
+23:08:42   hashed 20/100
+23:08:42   hashed 30/100
+23:08:42   hashed 40/100
+23:08:43   hashed 50/100
+23:08:43   hashed 60/100
+23:08:43   hashed 70/100
+23:08:43   hashed 80/100
+23:08:43   hashed 90/100
+23:08:44 step 2/4 done lines=100
+23:08:49 step 3/4 running python analysis
+23:08:49 step 3/4 done analysis.json=293B
+23:08:49 step 4/4 final hash + cleanup
+23:08:50 step 4/4 done final=d8dcaef2ca12a328b3d1ffc27030eced4d3f2154810327623225e767fbcd1009
+23:08:50 result.json written 254B
+23:08:51 lane-6-minimax compute-DONE — preparing to ship
+23:08:55 ship-start branch=smoke-pressure2/6
