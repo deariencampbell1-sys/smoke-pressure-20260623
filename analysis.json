@@ -1,18 +1,18 @@
 {
   "total_chunks": 100,
-  "unique_4hex_prefixes": 99,
+  "unique_4hex_prefixes": 100,
   "theoretical_max": 65536,
   "top_10_prefixes": {
-    "5c0d": 2,
-    "6dc7": 1,
-    "384c": 1,
-    "0e61": 1,
-    "9671": 1,
-    "1e3e": 1,
-    "19ae": 1,
-    "ea69": 1,
-    "6f0e": 1,
-    "06d4": 1
+    "0c96": 1,
+    "f562": 1,
+    "f003": 1,
+    "7713": 1,
+    "babd": 1,
+    "35d8": 1,
+    "dccf": 1,
+    "db3f": 1,
+    "998e": 1,
+    "0e41": 1
   },
   "expected_per_prefix": 0.002
 }
