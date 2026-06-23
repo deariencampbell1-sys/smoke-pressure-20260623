@@ -1,0 +1,56 @@
+23:10:15 lane-9-grok compute-start pid=2177073
+23:10:15 step 1/4 generating 500MB random dataset
+23:10:20 step 1/4 done bytes=524288000
+23:10:20 step 2/4 hashing 100x5MB chunks
+23:10:20   hashed 0/100
+23:10:20   hashed 10/100
+23:10:20   hashed 20/100
+23:10:21   hashed 30/100
+23:10:21   hashed 40/100
+23:10:21   hashed 50/100
+23:10:21   hashed 60/100
+23:10:21   hashed 70/100
+23:10:22   hashed 80/100
+23:10:22   hashed 90/100
+23:10:22 step 2/4 done lines=100
+23:10:22 step 3/4 running python analysis
+23:10:22 step 3/4 done analysis.json=293B
+23:10:22 step 4/4 final hash + cleanup
+23:10:23 step 4/4 done final=98762e94aa1bcc9adf5bba3006dc7df9b213791e2e5b9ea93b6312c66515b476
+23:10:23 supplemental compute phase — extending wall clock to ~8 min
+cpu_burn iters=152773
+23:10:53   supplemental pass 1 elapsed=38s total=38s
+cpu_burn iters=135075
+23:11:23   supplemental pass 2 elapsed=68s total=68s
+cpu_burn iters=128577
+23:11:53   supplemental pass 3 elapsed=98s total=98s
+cpu_burn iters=122887
+23:12:23   supplemental pass 4 elapsed=128s total=128s
+cpu_burn iters=131240
+23:12:53   supplemental pass 5 elapsed=158s total=158s
+cpu_burn iters=148069
+23:13:23   supplemental pass 6 elapsed=188s total=188s
+cpu_burn iters=160437
+23:13:53   supplemental pass 7 elapsed=218s total=218s
+cpu_burn iters=160674
+23:14:23   supplemental pass 8 elapsed=248s total=248s
+cpu_burn iters=153005
+23:14:53   supplemental pass 9 elapsed=278s total=278s
+cpu_burn iters=152832
+23:15:23   supplemental pass 10 elapsed=308s total=308s
+cpu_burn iters=157409
+23:15:53   supplemental pass 11 elapsed=338s total=338s
+cpu_burn iters=153914
+23:16:24   supplemental pass 12 elapsed=369s total=369s
+cpu_burn iters=158500
+23:16:54   supplemental pass 13 elapsed=399s total=399s
+cpu_burn iters=160182
+23:17:24   supplemental pass 14 elapsed=429s total=429s
+cpu_burn iters=160599
+23:17:54   supplemental pass 15 elapsed=459s total=459s
+cpu_burn iters=158788
+23:18:24   supplemental pass 16 elapsed=489s total=489s
+23:18:24   supplemental pass 17 elapsed=489s total_sup=489s — target reached
+23:18:24 supplemental done passes=17 total_secs=489
+23:18:24 result.json written 263B
+23:18:24 lane-9-grok compute-DONE total_secs=489
