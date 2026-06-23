@@ -1,0 +1,105 @@
+23:04:52 lane-4-minimax compute-start pid=2094416 workdir=/opt/rhobear/projects/smoke-pressure2-20260623/lane-4
+23:04:52 step 1/4 generating 500MB random dataset
+23:04:57 step 1/4 done bytes=524288000
+23:04:57 step 2/4 hashing 100x5MB chunks
+23:04:57   hashed 0/100
+23:04:58   hashed 10/100
+23:04:58   hashed 20/100
+23:04:59   hashed 30/100
+23:04:59   hashed 40/100
+23:04:59   hashed 50/100
+23:04:59   hashed 60/100
+23:05:00   hashed 70/100
+23:05:00   hashed 80/100
+23:05:00   hashed 90/100
+23:05:00 step 2/4 done lines=100
+23:05:00 step 3/4 running python analysis
+23:05:00 step 3/4 done analysis.json=293B
+23:05:00 step 4/4 final hash + cleanup
+23:05:02 step 4/4 done final=dc243d56a1474b696389ae91ee3a1da054206c739968dbf5e860816516440251
+23:05:02 result.json written 254B
+23:05:02 lane-4-minimax compute-CANONICAL-DONE elapsed=10s
+23:05:02 === STRETCH START cycles=80 chunks/cycle=100 parallel=8 ===
+23:05:09 stretch cycle 1/80 done total_lines=100
+23:05:17 stretch cycle 2/80 done total_lines=200
+23:05:25 stretch cycle 3/80 done total_lines=300
+23:05:33 stretch cycle 4/80 done total_lines=400
+23:05:41 stretch cycle 5/80 done total_lines=500
+23:05:49 stretch cycle 6/80 done total_lines=600
+23:05:57 stretch cycle 7/80 done total_lines=700
+23:06:04 stretch cycle 8/80 done total_lines=800
+23:06:12 stretch cycle 9/80 done total_lines=900
+23:06:20 stretch cycle 10/80 done total_lines=1000
+23:06:27 stretch cycle 11/80 done total_lines=1100
+23:06:35 stretch cycle 12/80 done total_lines=1200
+23:06:43 stretch cycle 13/80 done total_lines=1300
+23:06:50 stretch cycle 14/80 done total_lines=1400
+23:06:57 stretch cycle 15/80 done total_lines=1500
+23:07:04 stretch cycle 16/80 done total_lines=1600
+23:07:11 stretch cycle 17/80 done total_lines=1700
+23:07:19 stretch cycle 18/80 done total_lines=1800
+23:07:26 stretch cycle 19/80 done total_lines=1900
+23:07:34 stretch cycle 20/80 done total_lines=2000
+23:07:39 stretch cycle 21/80 done total_lines=2100
+23:07:44 stretch cycle 22/80 done total_lines=2200
+23:07:50 stretch cycle 23/80 done total_lines=2300
+23:07:55 stretch cycle 24/80 done total_lines=2400
+23:08:00 stretch cycle 25/80 done total_lines=2500
+23:08:05 stretch cycle 26/80 done total_lines=2600
+23:08:11 stretch cycle 27/80 done total_lines=2700
+23:08:16 stretch cycle 28/80 done total_lines=2800
+23:08:21 stretch cycle 29/80 done total_lines=2900
+23:08:27 stretch cycle 30/80 done total_lines=3000
+23:08:32 stretch cycle 31/80 done total_lines=3100
+23:08:38 stretch cycle 32/80 done total_lines=3200
+23:08:43 stretch cycle 33/80 done total_lines=3300
+23:08:49 stretch cycle 34/80 done total_lines=3400
+23:08:54 stretch cycle 35/80 done total_lines=3500
+23:08:59 stretch cycle 36/80 done total_lines=3600
+23:09:04 stretch cycle 37/80 done total_lines=3700
+23:09:12 stretch cycle 38/80 done total_lines=3800
+23:09:18 stretch cycle 39/80 done total_lines=3900
+23:09:23 stretch cycle 40/80 done total_lines=4000
+23:09:30 stretch cycle 41/80 done total_lines=4100
+23:09:36 stretch cycle 42/80 done total_lines=4200
+23:09:41 stretch cycle 43/80 done total_lines=4300
+23:09:46 stretch cycle 44/80 done total_lines=4400
+23:09:51 stretch cycle 45/80 done total_lines=4500
+23:09:57 stretch cycle 46/80 done total_lines=4600
+23:10:02 stretch cycle 47/80 done total_lines=4700
+23:10:07 stretch cycle 48/80 done total_lines=4800
+23:10:13 stretch cycle 49/80 done total_lines=4900
+23:10:21 stretch cycle 50/80 done total_lines=5000
+23:10:27 stretch cycle 51/80 done total_lines=5100
+23:10:32 stretch cycle 52/80 done total_lines=5200
+23:10:37 stretch cycle 53/80 done total_lines=5300
+23:10:42 stretch cycle 54/80 done total_lines=5400
+23:10:48 stretch cycle 55/80 done total_lines=5500
+23:10:54 stretch cycle 56/80 done total_lines=5600
+23:11:00 stretch cycle 57/80 done total_lines=5700
+23:11:05 stretch cycle 58/80 done total_lines=5800
+23:11:11 stretch cycle 59/80 done total_lines=5900
+23:11:17 stretch cycle 60/80 done total_lines=6000
+23:11:23 stretch cycle 61/80 done total_lines=6100
+23:11:29 stretch cycle 62/80 done total_lines=6200
+23:11:36 stretch cycle 63/80 done total_lines=6300
+23:11:42 stretch cycle 64/80 done total_lines=6400
+23:11:48 stretch cycle 65/80 done total_lines=6500
+23:11:53 stretch cycle 66/80 done total_lines=6600
+23:11:59 stretch cycle 67/80 done total_lines=6700
+23:12:05 stretch cycle 68/80 done total_lines=6800
+23:12:11 stretch cycle 69/80 done total_lines=6900
+23:12:17 stretch cycle 70/80 done total_lines=7000
+23:12:23 stretch cycle 71/80 done total_lines=7100
+23:12:29 stretch cycle 72/80 done total_lines=7200
+23:12:35 stretch cycle 73/80 done total_lines=7300
+23:12:40 stretch cycle 74/80 done total_lines=7400
+23:12:47 stretch cycle 75/80 done total_lines=7500
+23:12:53 stretch cycle 76/80 done total_lines=7600
+23:12:59 stretch cycle 77/80 done total_lines=7700
+23:13:05 stretch cycle 78/80 done total_lines=7800
+23:13:13 stretch cycle 79/80 done total_lines=7900
+23:13:19 stretch cycle 80/80 done total_lines=8000
+23:13:19 === STRETCH COMPLETE total_lines=8000 final_stretch=047cb891e6f1e84dfe2c41d18185609ef5df214f8ea4790bf55737268166ffc6 ===
+23:13:19 big_analysis.json written 309B
+23:13:19 lane-4-minimax compute-DONE elapsed=507s

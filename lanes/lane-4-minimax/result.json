@@ -1,0 +1,14 @@
+{
+  "lane": "lane-4-minimax",
+  "pool": "minimax",
+  "model": "MiniMax-M3",
+  "chunks_hashed": 100,
+  "analysis_bytes": 293,
+  "final_sha256": "dc243d56a1474b696389ae91ee3a1da054206c739968dbf5e860816516440251",
+  "completed_at": "2026-06-23T23:05:02Z",
+  "stretch_chunks_hashed": 8000,
+  "stretch_unique_prefixes": 7534,
+  "stretch_final_sha256": "047cb891e6f1e84dfe2c41d18185609ef5df214f8ea4790bf55737268166ffc6",
+  "wall_clock_seconds": 507,
+  "progress_log_lines": 104
+}

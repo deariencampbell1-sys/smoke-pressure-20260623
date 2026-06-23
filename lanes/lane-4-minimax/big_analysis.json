@@ -1,0 +1,17 @@
+{
+  "lane": "lane-4-minimax",
+  "pool": "minimax",
+  "model": "MiniMax-M3",
+  "total_hashes": 8000,
+  "unique_4hex_prefixes": 7534,
+  "theoretical_max": 65536,
+  "coverage_pct": 11.496,
+  "max_collision": 3,
+  "top_5_prefixes": {
+    "37ff": 3,
+    "4464": 3,
+    "1675": 3,
+    "edde": 3,
+    "d5f1": 3
+  }
+}
