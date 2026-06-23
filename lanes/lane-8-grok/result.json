@@ -1,0 +1,9 @@
+{
+  "lane": "lane-8-grok",
+  "pool": "minimax",
+  "model": "grok-composer-2.5-fast",
+  "chunks_hashed": 100,
+  "analysis_bytes": 293,
+  "final_sha256": "faf1b252add937e1313f9960dcb35887c5e4143d274cf99ecc88ecb8a3f279d5",
+  "completed_at": "2026-06-23T23:09:13Z"
+}
