@@ -1,0 +1,20 @@
+[burn] t=15.0s/300s iters_so_far=0
+[burn] t=30.2s/300s iters_so_far=0
+[burn] t=45.8s/300s iters_so_far=0
+[burn] t=60.9s/300s iters_so_far=0
+[burn] t=76.4s/300s iters_so_far=0
+[burn] t=91.6s/300s iters_so_far=0
+[burn] t=106.8s/300s iters_so_far=0
+[burn] t=122.4s/300s iters_so_far=0
+[burn] t=137.7s/300s iters_so_far=0
+[burn] t=153.0s/300s iters_so_far=0
+[burn] t=168.2s/300s iters_so_far=0
+[burn] t=183.6s/300s iters_so_far=0
+[burn] t=199.0s/300s iters_so_far=0
+[burn] t=214.1s/300s iters_so_far=0
+[burn] t=229.4s/300s iters_so_far=0
+[burn] t=244.8s/300s iters_so_far=0
+[burn] t=259.9s/300s iters_so_far=0
+[burn] t=275.4s/300s iters_so_far=0
+[burn] t=290.8s/300s iters_so_far=0
+burn-in done 300.2s, 0.4M sha256/sec aggregate across 8 threads

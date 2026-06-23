@@ -1,0 +1,49 @@
+{
+  "target_sec": 300,
+  "workers": 8,
+  "elapsed_sec": 300.214,
+  "total_iterations": 124709879,
+  "rate_m_per_sec": 0.42,
+  "per_worker": [
+    {
+      "worker": 0,
+      "iterations": 15134152,
+      "digest_prefix": "6d07ad0ff4f788c7"
+    },
+    {
+      "worker": 1,
+      "iterations": 15787545,
+      "digest_prefix": "6fe89cb2a3d900b6"
+    },
+    {
+      "worker": 2,
+      "iterations": 14488533,
+      "digest_prefix": "c90de808efd5c603"
+    },
+    {
+      "worker": 3,
+      "iterations": 16183672,
+      "digest_prefix": "93074e568f7c296c"
+    },
+    {
+      "worker": 4,
+      "iterations": 15912131,
+      "digest_prefix": "97c4412522d614e2"
+    },
+    {
+      "worker": 5,
+      "iterations": 15696846,
+      "digest_prefix": "09a20388cf300586"
+    },
+    {
+      "worker": 6,
+      "iterations": 15796621,
+      "digest_prefix": "8eef1f4e34398740"
+    },
+    {
+      "worker": 7,
+      "iterations": 15710379,
+      "digest_prefix": "7191514a562516df"
+    }
+  ]
+}
